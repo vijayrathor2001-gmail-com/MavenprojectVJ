@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-26T09:25:14 EDT" name="Suite" finished-at="2021-05-26T09:25:15 EDT" duration-ms="46">
+    <groups>
+    </groups>
+    <test started-at="2021-05-26T09:25:14 EDT" name="Test" finished-at="2021-05-26T09:25:15 EDT" duration-ms="46">
+      <class name="VJMavenProject.MavenJava.RestAPITest">
+        <test-method signature="Test3()[pri:0, instance:VJMavenProject.MavenJava.RestAPITest@6d3a388c]" started-at="2021-05-26T09:25:15 EDT" name="Test3" finished-at="2021-05-26T09:25:15 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:VJMavenProject.MavenJava.RestAPITest@6d3a388c]" started-at="2021-05-26T09:25:15 EDT" name="Test4" finished-at="2021-05-26T09:25:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- VJMavenProject.MavenJava.RestAPITest -->
+      <class name="VJMavenProject.MavenJava.SeleniumTest">
+        <test-method signature="Test5()[pri:0, instance:VJMavenProject.MavenJava.SeleniumTest@625732]" started-at="2021-05-26T09:25:15 EDT" name="Test5" finished-at="2021-05-26T09:25:15 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method signature="Test6()[pri:0, instance:VJMavenProject.MavenJava.SeleniumTest@625732]" started-at="2021-05-26T09:25:15 EDT" name="Test6" finished-at="2021-05-26T09:25:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+      </class> <!-- VJMavenProject.MavenJava.SeleniumTest -->
+      <class name="VJMavenProject.MavenJava.AppiumTest">
+        <test-method signature="Test1()[pri:0, instance:VJMavenProject.MavenJava.AppiumTest@223aa2f7]" started-at="2021-05-26T09:25:15 EDT" name="Test1" finished-at="2021-05-26T09:25:15 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:VJMavenProject.MavenJava.AppiumTest@223aa2f7]" started-at="2021-05-26T09:25:15 EDT" name="Test2" finished-at="2021-05-26T09:25:15 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- VJMavenProject.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
